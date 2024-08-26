@@ -1,0 +1,7 @@
+<svg class="icon">
+  <use xlink:href="#ic-chevron"></use>
+</svg>
+
+<svg class="icon">
+  <use xlink:href="#ic-search"></use>
+</svg>
